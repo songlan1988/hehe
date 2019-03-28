@@ -1,6 +1,7 @@
 # `testcases`
 
 `testcases`中 包含所有测试用例.
+用例后的数字代表优先级
 
 [TOC]: #
 
